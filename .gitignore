@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+/src/vendor
+/src/Homestead.json
+/src/Homestead.yaml
+/src/public/storage
+/src/storage/*.key
